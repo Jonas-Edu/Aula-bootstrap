@@ -1,5 +1,6 @@
 body {
     font: 20px Arial, sans-serif;
+    scroll-behavior: smooth;
 }
 
 .navbar {
@@ -7,14 +8,25 @@ body {
 }
 
 .quem-somos {
-background-color: beige;
+    background-color: beige;
 }
 
 .margin {
-    padding-bottom: 50px;
-    padding-top: 10px;
+padding-top: 70px;
+padding-bottom: 70px;
 }
 
-.parte2 {
- 
+.parceiros {
+    background-color: sandybrown;
+}
+
+.servicos {
+     background-color:yellowgreen ;
+}
+
+.bg-footer {
+    background-color: silver;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
